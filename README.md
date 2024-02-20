@@ -20,6 +20,9 @@ Useful for displaying seo and marketing services for a service-based business.
 ![Horiseon Code Refactor](assets/images/Horiseon-Code-Refactor-Website-Example.png)
 ```
 
+Link to deployed application:
+[Horiseon Code Refactor](https://andrewhamerly.github.io/code-refactor/)
+
 ## Credits
 
 I used this blog post as a reference for HTML best practices: https://www.ohmycrawl.com/technical-seo/main-vs-body/
